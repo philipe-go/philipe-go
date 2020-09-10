@@ -1,1 +1,1 @@
-<img src="/philGOpic.png" alt="Profile Logo">
+![Logo](/philGOpic.png)
