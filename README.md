@@ -1,1 +1,1 @@
-![Logo](./phil(go)GitHubLogo.png?Style=centerme)
+![Logo](./GitHubLogo.png)
