@@ -1,1 +1,1 @@
-![pic](./philGOpic.png?style=centerme)
+<img src="./philGOpic.png" alt="Profile Logo">
