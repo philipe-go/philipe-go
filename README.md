@@ -1,3 +1,3 @@
 # Philipe Go.
-![Logo](./philGOpic.png)
+![Logo](/imagem/philGOpic.png)
 
