@@ -1,1 +1,1 @@
-![Logo](./PhilGOprofile.png?style=centerme)
+![Logo](./philGOpic.png?style=centerme)
