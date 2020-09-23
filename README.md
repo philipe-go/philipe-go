@@ -1,9 +1,6 @@
 # Philipe Go.
 <hr>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=philipe-go)
-
-
 <details>
 <summary>Click for GitHub Stats</summary>
 <p align="center">
