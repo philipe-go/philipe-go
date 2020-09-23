@@ -1,5 +1,4 @@
-<img src="./image/philGOpic.png" height="20%" width="20%">
-# Philipe Go.
+<p align="center"><h1>Philipe Go.</h1><p>
 <hr>
 
 <details>
