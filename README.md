@@ -1,3 +1,4 @@
+<img src="./image/philGOpic.png" height="20%" width="20%">
 # Philipe Go.
 <hr>
 
