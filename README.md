@@ -5,9 +5,7 @@
 <summary>Click for Philipe Go.'s Stats</summary>
 <p align="center">
 
-<a href="https://github.com/philipe-go">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=philipe-go&theme=light&hide_langs_below=1" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=philipe-go&layout=compact)](https://github.com/philipe-go/github-readme-stats)
 
 <br>
 </p>
