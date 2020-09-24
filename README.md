@@ -7,16 +7,13 @@
   <a href="https://www.codewars.com/users/philipe-go"><img alt="Codewars" title="CodeWars" height="24" width="24" src="./image/codewars.png"></a>
   <a href="mailto:philipe.ng@pm.net"><img alt="Mail" title="Mail" height="24" width="24" src="./image/mail.png"></a>
 </p>
+
 <hr>
 
 <details>
-<summary>Click for Philipe Go.'s Stats</summary>
+<summary>for(stats : philipe go)</summary>
 <p align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=philipe-go&layout=compact&style=centerme)](https://github.com/philipe-go)
-[![Github stats](https://github-readme-stats.vercel.app/api?username=philipe-go&lhide_border=true&hide_title=true&style=centerme)](https://github.com/philipe-go)
-
-
-[![Code Wars](https://www.codewars.com/users/philipe-go/badges/micro&style=centerme)](https://www.codewars.com/users/philipe-go)
+ <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=philipe-go&layout=compact"></a>
 </p>
 <br>
 </details> 
