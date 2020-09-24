@@ -6,7 +6,7 @@
 <summary>Click for Philipe Go.'s Stats</summary>
 <p align="center">
 <div class="progress mb-3" style="height:15px">
-  <div class="progress-bar" role="progressbar" style="width: 70%" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100">C#</div>
+  <div class="progress-bar" role="progressbar" style="width: 70%" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"></div>
 </div>
 <br>
 </p>
