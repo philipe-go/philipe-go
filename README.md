@@ -5,18 +5,9 @@
 <details>
 <summary>Click for Philipe Go.'s Stats</summary>
 <p align="center">
-   
-   <div class="w3-container">
-        
-   <div class="w3-light-grey w3-round-xlarge">
-   <div class="w3-container w3-blue w3-round-xlarge" style="width:75%">C#</div>
-   </div>
-   <br>
-   <div class="w3-light-grey w3-round-xlarge">
-   <div class="w3-container w3-blue w3-round-xlarge" style="width:40%">C++</div>
-   </div>
-   </div>
-   
+<div class="progress mb-3" style="height:15px">
+  <div class="progress-bar" role="progressbar" style="width: 70%" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100">C#</div>
+</div>
 <br>
 </p>
 </details> 
