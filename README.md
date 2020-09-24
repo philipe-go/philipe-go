@@ -2,9 +2,34 @@
 <hr>
 
 <details>
-<summary>Click for GitHub Stats</summary>
+<summary>Click for Philipe Go.'s Stats</summary>
 <p align="center">
-    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=philipe-go&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
-    <br>
+   <div class="w3-light-grey w3-round-xlarge">
+    <div class="w3-container w3-blue w3-round-xlarge" style="width:70%">C#</div>
+    </div>
+   </div>
+   
+   <div class="w3-light-grey w3-round-xlarge">
+    <div class="w3-container w3-blue w3-round-xlarge" style="width:40%">C++</div>
+    </div>
+   </div>
+   
+   <div class="w3-light-grey w3-round-xlarge">
+    <div class="w3-container w3-blue w3-round-xlarge" style="width:5%">GoLang</div>
+    </div>
+   </div>
+   
+   
+   <div class="w3-light-grey w3-round-xlarge">
+    <div class="w3-container w3-blue w3-round-xlarge" style="width:80%">Unity</div>
+    </div>
+   </div>
+   
+   
+   <div class="w3-light-grey w3-round-xlarge">
+    <div class="w3-container w3-blue w3-round-xlarge" style="width:25%">UE4</div>
+    </div>
+   </div>
+  <br>
 </p>
 </details> 
