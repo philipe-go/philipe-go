@@ -13,7 +13,7 @@
 <details>
 <summary>for(stats : philipe go)</summary>
 <p align="center">
- <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=philipe-go&layout=compact"></a>
+ <a href="https://github.com/philipe-go">https://github-readme-stats.vercel.app/api/top-langs/?username=philipe-go&layout=compact</a>
 </p>
 <br>
 </details> 
