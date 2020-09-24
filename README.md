@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://github.com/philipe-go"><img alt="GitHub" title="GitHub" height="24" width="24" src="./image/github2.png"></a>
   <a href="https://linkedin.com/in/philipe-go"><img alt="LinkedIn" title="LinkedIn" height="24" width="24" src="./image/linkedin2.png"></a>
-  <a href="https://philipego.itch.io/"><img alt="ItchIO" title="Itch.IO" height="28" width="28" src="./image/itchio.png"></a>
+  <a href="https://philipego.itch.io/"><img alt="ItchIO" title="Itch.IO" height="24" width="24" src="./image/itchio.png"></a>
   <a href="https://www.codewars.com/users/philipe-go"><img alt="Codewars" title="CodeWars" height="24" width="24" src="./image/codewars.png"></a>
   <a href="mailto:philipe.ng@pm.net"><img alt="Mail" title="Mail" height="24" width="24" src="./image/mail.png"></a>
 </p>
