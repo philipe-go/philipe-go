@@ -14,8 +14,8 @@
 <summary> for (stats : philipe_go) {...}</summary>
 <p align="center">
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=philipe-go&layout=compact)](https://github.com/philipe-go){:target="_blank"}
-  [![Github stats](https://github-readme-stats.vercel.app/api?username=philipe-go&lhide_border=true&hide_title=true)](https://github.com/philipe-go){:target="_blank"}
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=philipe-go&layout=compact)](https://github.com/philipe-go)
+  [![Github stats](https://github-readme-stats.vercel.app/api?username=philipe-go&lhide_border=true&hide_title=true)](https://github.com/philipe-go)
   
   
   [![Code Wars](https://www.codewars.com/users/philipe-go/badges/small)](https://www.codewars.com/users/philipe-go)
