@@ -18,8 +18,6 @@
   [![Github stats](https://github-readme-stats.vercel.app/api?username=philipe-go&lhide_border=true&hide_title=true)](https://github.com/philipe-go)
   
   
-  [![Code Wars](https://www.codewars.com/users/philipe-go/badges/small)](https://www.codewars.com/users/philipe-go)
-  
 </p>
 <br>
 </details> 
