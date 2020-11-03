@@ -11,10 +11,10 @@
 <hr>
 
 <details>
-<summary> for (stats : philipe_go) {...}</summary>
+<summary> for (auto stats : philipe_go) {...}</summary>
 <p align="center">
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=philipe-go&layout=compact&style=centerme)](https://github.com/philipe-go)  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=philipe-go&layout=compact)](https://github.com/philipe-go)  
   
 </p>
 <br>
