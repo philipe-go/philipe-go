@@ -1,6 +1,5 @@
 <p align="center"><h1>philipe go.</h1></p>
 <hr>
-<p align="center"><h1>philipe go.</h1></p>
 
 <p align="center">
   <a href="https://github.com/philipe-go" target="_blank"><img alt="GitHub" title="GitHub" height="24" width="24" src="./image/github2.png"></a>
