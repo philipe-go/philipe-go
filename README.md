@@ -27,9 +27,7 @@
 <a href="/">
   <img align="left" alt="Visitor badge" src="https://visitor-badge.glitch.me/badge?page_id=philipe-go.philipe-go" />
 </a>
- <a href="/">
- <img align="left" alt="Views badge" src="https://gpvc.arturio.dev/philipe-go" />
-</a>
+
 </p>
 <br>
 </details> 
