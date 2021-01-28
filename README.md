@@ -15,7 +15,27 @@
 <summary> for (auto stats : philipe_go) {...}</summary>
 <p align="center">
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=philipe-go&layout=compact)](https://github.com/philipe-go)  
+<a href="https://github.com/philipe-go/philipe-go">
+  <img
+    align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=philipe-go&layout=compact&langs_count=8&theme=dark"
+    height="180px"
+  />
+</a>
+
+<a href="https://github.com/philipe-go/philipe-go">
+  <img
+    align="center"
+    src="https://github-readme-stats.vercel.app/api?username=philipe-go&count_private=true&show_icons=true&theme=dark"
+    alt="My GitHub Stats"
+    height="180px"
+  />
+</a>
+
+<hr/>
+<a href="/">
+  <img align="right" alt="Visitor badge" src="https://visitor-badge.glitch.me/badge?page_id=philipe-go.philipe-go" />
+</a
   
 </p>
 <br>
