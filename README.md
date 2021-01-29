@@ -24,9 +24,7 @@
 </a>
 
 <hr/>
-<a href="/">
-  <img align="left" alt="Visitor badge" src="https://visitor-badge.glitch.me/badge?page_id=philipe-go.philipe-go" />
-</a>
+
 
 </p>
 <br>
