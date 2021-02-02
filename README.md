@@ -15,14 +15,7 @@
 <summary> for (auto stats : philipe_go) {...}</summary>
 <p align="center">
 
-<a href="https://github.com/philipe-go/philipe-go">
-  <img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=philipe-go&count_private=true&show_icons=true&theme=dark"
-    alt="My GitHub Stats"
-    height="180px"
-  />
-</a
+
 
 <hr/>
 
